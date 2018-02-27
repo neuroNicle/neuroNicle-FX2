@@ -6,6 +6,7 @@
 - The light absorption is in proportion to arterial blood volume (fig.b).
 - The output of the light detector shows the blood volume changes synchronized with heart beats (fig.c).
 - Usually, the measured AC component is named by pulse wave or PPG (Photo Plethysmo Gram).
+
 ![Heart Beat. neuroNicle FX2](images/VISD-80_Optic_Measure_EarTip_Blood_Volume_neuroNicle-FX2_780x750.png)
 
 

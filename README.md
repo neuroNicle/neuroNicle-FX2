@@ -1,6 +1,10 @@
 ![neuroNicle FX2](images/VISD-71_Featured_neuronicle-FX2_780x780.png)
 
 
+### Brain Wave. 
+
+![Brain Wave. neuroNicle FX2](images/VISD-82_BrainWave_Measure_neuroNicle-FX2_780x760.png)
+
 ### Heart beat. Optical Measuring
 - The light from the light source (fig.a) is absorbed by tissue, venous blood and arterial blood.
 - The light absorption is in proportion to arterial blood volume (fig.b).
